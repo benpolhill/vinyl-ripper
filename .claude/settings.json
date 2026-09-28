@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(az monitor log-analytics query *)",
+      "Bash(az webapp show *)",
+      "mcp__chrome-devtools__take_screenshot",
+      "mcp__sentry__get_sentry_resource",
+      "mcp__sentry__search_issues"
+    ]
+  }
+}
